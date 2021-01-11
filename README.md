@@ -2,6 +2,12 @@
 
 Extends the projection line in Poolians 2D.
 
+## Usage
+
+```
+python -m p2le
+```
+
 ## Assumptions
 
 * The source image is showing the pool table in its entirety.
